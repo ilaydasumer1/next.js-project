@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "img": "./assets/trendyol.webp",
+    "name": "Trendyol",
+    "description": "Türkiye'nin önde gelen e-ticaret platformlarından biri.",
+    "foundation_date": "2010",
+    "popularity_score": 9.5
+  },
+  {
+    "id": 2,
+    "img": "./assets/cicek-sepeti.webp",
+    "name": "Çiçek Sepeti",
+    "description": "Türkiye'nin önde gelen çiçek siparişi platformu.",
+    "foundation_date": "2006",
+    "popularity_score": 9.2
+  },
+  {
+    "id": 3,
+    "img": "./assets/amazon.webp",
+    "name": "Amazon",
+    "description": "Uluslararası bir e-ticaret devi.",
+    "foundation_date": "1994",
+    "popularity_score": 9.8
+  },
+  {
+    "id": 4,
+    "img": "./assets/ebay.webp",
+    "name": "eBay",
+    "description": "Dünya çapında popüler bir online açık artırma ve alışveriş platformu.",
+    "foundation_date": "1995",
+    "popularity_score": 9.0
+  },
+  {
+    "id": 5,
+    "img": "./assets/alibaba.webp",
+    "name": "Alibaba",
+    "description": "Çin menşeli uluslararası bir e-ticaret ve toptan satış platformu.",
+    "foundation_date": "1999",
+    "popularity_score": 9.7
+  },
+  {
+    "id": 6,
+    "img": "./assets/etsy.webp",
+    "name": "Etsy",
+    "description": "El yapımı ve vintage ürünlerin satıldığı küresel bir e-ticaret platformu.",
+    "foundation_date": "2005",
+    "popularity_score": 8.9
+  },
+  {
+    "id": 7,
+    "img": "./assets/shopify.webp",
+    "name": "Shopify",
+    "description": "Online mağaza oluşturma ve e-ticaret platformu.",
+    "foundation_date": "2006",
+    "popularity_score": 9.3
+  },
+  {
+    "id": 8,
+    "img": "./assets/magento.webp",
+    "name": "Magento",
+    "description": "Açık kaynaklı bir e-ticaret platformu.",
+    "foundation_date": "2007",
+    "popularity_score": 8.7
+  },
+  {
+    "id": 9,
+    "img": "./assets/woocommerce.webp",
+    "name": "WooCommerce",
+    "description": "WordPress tabanlı bir e-ticaret eklentisi.",
+    "foundation_date": "2011",
+    "popularity_score": 8.5
+  },
+  {
+    "id": 10,
+    "img": "./assets/bigcommerce.webp",
+    "name": "BigCommerce",
+    "description": "Büyük ve orta ölçekli işletmeler için bir e-ticaret platformu.",
+    "foundation_date": "2009",
+    "popularity_score": 8.8
+  },
+  {
+    "id": 11,
+    "img": "./assets/wix.webp",
+    "name": "Wix Stores",
+    "description": "Wix'in e-ticaret çözümü.",
+    "foundation_date": "2006",
+    "popularity_score": 8.6
+  },
+  {
+    "id": 12,
+    "img": "./assets/squre.webp",
+    "name": "Square Online Store",
+    "description": "Küçük işletmeler için bir e-ticaret platformu.",
+    "foundation_date": "2009",
+    "popularity_score": 8.4
+  },
+  {
+    "id": 13,
+    "img": "./assets/prestashop.webp",
+    "name": "PrestaShop",
+    "description": "Açık kaynaklı bir e-ticaret platformu.",
+    "foundation_date": "2007",
+    "popularity_score": 8.2
+  },
+  {
+    "id": 14,
+    "img": "./assets/open-cart.webp",
+    "name": "OpenCart",
+    "description": "Açık kaynaklı bir e-ticaret platformu.",
+    "foundation_date": "2008",
+    "popularity_score": 8.0
+  },
+  {
+    "id": 15,
+    "img": "./assets/volusion.webp",
+    "name": "Volusion",
+    "description": "Küçük ve orta ölçekli işletmeler için bir e-ticaret platformu.",
+    "foundation_date": "1999",
+    "popularity_score": 7.9
+  }
+]
